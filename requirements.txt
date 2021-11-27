@@ -1,0 +1,10 @@
+pandas
+numpy
+string
+re
+matplotlib
+seaborn
+wordcloud
+collections
+PIL
+joblib

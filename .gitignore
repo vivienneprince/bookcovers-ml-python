@@ -112,7 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-openlibrary_works.csv
 allsubj_notrunc_100ksample.txt
-allsubj_split.txt
-freq.csv
+covers
+outputs
+*.csv
+.DS_Store

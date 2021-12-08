@@ -8,3 +8,7 @@ wordcloud
 collections
 PIL
 joblib
+Pillow
+torch
+torchvision
+sklearn
